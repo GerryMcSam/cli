@@ -1,0 +1,12 @@
+TEN FACTS ABOUT THE CLI
+
+1. **CLI stands for Command Line Interface.** It is a text-based user interface that allows you to interact with your computer by typing commands.
+2. **CLIs have been around since the early days of computing.** They were the only way to interact with computers before graphical user interfaces (GUIs) became popular in the 1980s.
+3. **CLIs are still used today by many power users and system administrators.** They are also used by developers to automate tasks and troubleshoot problems.
+4. **To use a CLI, you need to know the commands that you want to use.** You can find these commands in the documentation for your operating system or in online resources.
+5. **Commands are usually entered in a single line.** The command line is divided into two parts: the command itself and the arguments that you want to pass to the command.
+6. **Arguments are additional information that you can provide to the command.** They can be used to specify the location of files, the options that you want to use, and other information.
+7. **Commands can be combined with pipes to chain together multiple commands.** This allows you to perform complex tasks with a single command.
+8. **CLIs can be used to perform a wide variety of tasks.** You can use them to manage files, install software, troubleshoot problems, and automate tasks.
+9. **CLIs can be a bit daunting at first, but they are very powerful once you learn how to use them.** If you are a power user or a system administrator, then learning how to use a CLI is a valuable skill.
+10. **There are many different CLIs available.** The most common CLI is the Command Prompt on Windows and the Terminal on macOS and Linux.
